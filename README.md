@@ -3,7 +3,7 @@
 ## Description
 A console-based Java application to manage institute operations such as students, faculty, courses, and batches.
 
-## 🚀 Features
+## Features
 - Student Management
 - Faculty Management
 - Course Handling
